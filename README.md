@@ -7,7 +7,7 @@ Built using dlib's state-of-the-art face recognition built with deep learning. T
 
 This also provides a simple face_recognition command line tool that lets you do face recognition on a folder of images from the command line!
 
-# Required Libraries Installation Process
+# Required Libraries and Software Installation Process
 1) pip3 install numpy
 2) pip3 install pandas
 3) pip3 install matplotlib

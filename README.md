@@ -1,4 +1,4 @@
-# Face-Recognisation
+# Face-Recognition
 Real-time face recognition project with OpenCV and Python
 
 Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
